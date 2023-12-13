@@ -43,7 +43,7 @@ Image Gallery, a straightforward yet dynamic webpage that retrieves and displays
 
 - Once the application is running locally, you can access it at `http://localhost:5173/`.
 
-⚠️ Additional, you can also access the application at **[imagegallery.noeyislearning.dev](https://imagegallery.noeyislearning.dev/)**.
+⚠️ NOTE: This will be available soon! You can also access the application at **[imagegallery.noeyislearning.dev](https://imagegallery.noeyislearning.dev/)**.
 
 ## Usage
 
