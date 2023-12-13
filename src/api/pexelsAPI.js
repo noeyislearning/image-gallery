@@ -1,5 +1,3 @@
-import 'isomorphic-fetch';
-
 import { createClient } from "pexels";
 
 const API_KEY = import.meta.env.VITE_PEXELS_API_KEY;
